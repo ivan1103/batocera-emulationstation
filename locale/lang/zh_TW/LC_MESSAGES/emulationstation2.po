@@ -50,19 +50,19 @@ msgid "CLOSE"
 msgstr "關閉"
 
 msgid "JUMP TO..."
-msgstr ""
+msgstr "移動到..."
 
 msgid "SORT GAMES BY"
 msgstr "遊戲排序方式"
 
 msgid "FILTER GAMELIST"
-msgstr ""
+msgstr "篩選遊戲清單"
 
 msgid "EDIT THIS GAME'S METADATA"
 msgstr "編輯此遊戲的簡介資料"
 
 msgid "FINNISHED"
-msgstr ""
+msgstr "結束"
 
 msgid "MAIN MENU"
 msgstr "主選單"
@@ -86,7 +86,7 @@ msgid "NETWORK SETTINGS"
 msgstr "網路設定"
 
 msgid "RETROACHIEVEMENTS"
-msgstr ""
+msgstr "復古遊戲成就"
 
 msgid "SCRAPE"
 msgstr "資料搜刮"
@@ -95,7 +95,7 @@ msgid "SYSTEM SETTINGS"
 msgstr "系統設定"
 
 msgid "INFORMATIONS"
-msgstr ""
+msgstr "資訊"
 
 msgid "QUIT"
 msgstr "離開"
@@ -116,7 +116,7 @@ msgid "SELECT"
 msgstr "選擇"
 
 msgid "INFORMATION"
-msgstr ""
+msgstr "相關資訊"
 
 msgid "VERSION"
 msgstr "版本"
@@ -125,16 +125,16 @@ msgid "DISK USAGE"
 msgstr "磁碟使用情況"
 
 msgid "CREATE A SUPPORT FILE ?"
-msgstr ""
+msgstr "建立支援的檔案?"
 
 msgid "FILE GENERATED SUCCESSFULLY"
-msgstr ""
+msgstr "檔案建立完成"
 
 msgid "FILE GENERATION FAILED"
-msgstr ""
+msgstr "檔案建立發生錯誤"
 
 msgid "CREATE A SUPPORT FILE"
-msgstr ""
+msgstr "建立支援檔案"
 
 msgid "STORAGE DEVICE"
 msgstr "儲存設備"
@@ -155,7 +155,7 @@ msgid "START UPDATE"
 msgstr "開始更新"
 
 msgid "BACKUP USER DATA"
-msgstr ""
+msgstr "備份使用者資料"
 
 msgid "KODI SETTINGS"
 msgstr "KODI 設定"
@@ -170,7 +170,7 @@ msgid "START KODI WITH X"
 msgstr "按 X 鍵啟動 KODI"
 
 msgid "INSTALL BATOCERA ON A NEW DISK"
-msgstr ""
+msgstr "在新硬碟安裝BATOCERA系統"
 
 msgid "SECURITY"
 msgstr "安全防護"
@@ -182,7 +182,7 @@ msgid "ROOT PASSWORD"
 msgstr "ROOT 密碼"
 
 msgid "A REBOOT OF THE SYSTEM IS REQUIRED TO APPLY THE NEW CONFIGURATION"
-msgstr ""
+msgstr "系統重新啟動以啟用變更的設置"
 
 msgid "GAME RATIO"
 msgstr "遊戲顯示比例"
@@ -194,10 +194,10 @@ msgid "AUTO"
 msgstr "自動"
 
 msgid "ON"
-msgstr ""
+msgstr "啟用"
 
 msgid "OFF"
-msgstr ""
+msgstr "關閉"
 
 msgid "REWIND"
 msgstr "倒退功能"
@@ -224,7 +224,7 @@ msgid "DECORATION"
 msgstr ""
 
 msgid "RETROACHIEVEMENTS SETTINGS"
-msgstr "RETROACHIEVEMENTS 設定"
+msgstr "復古成就 設定"
 
 msgid "HARDCORE MODE"
 msgstr "硬派模式"
@@ -236,7 +236,7 @@ msgid "VERBOSE MODE"
 msgstr ""
 
 msgid "AUTOMATIC SCREENSHOT"
-msgstr ""
+msgstr "自動擷取畫面"
 
 msgid "USERNAME"
 msgstr "使用者名稱"
@@ -245,13 +245,13 @@ msgid "PASSWORD"
 msgstr "使用者密碼"
 
 msgid "MISSING BIOS"
-msgstr ""
+msgstr "尚缺失的BIOS"
 
 msgid "NO MISSING BIOS"
-msgstr ""
+msgstr "BIOS備齊"
 
 msgid "MD5"
-msgstr ""
+msgstr "MD5"
 
 msgid "STATUS"
 msgstr "目前狀態"
@@ -301,19 +301,19 @@ msgid "INPUT P%i"
 msgstr "輸入 P%i"
 
 msgid "UI MODE"
-msgstr ""
+msgstr "介面模式"
 
 msgid "VIDEO OUTPUT"
-msgstr ""
+msgstr "視訊輸出"
 
 msgid "THEME SET"
 msgstr "主題佈景設定"
 
 msgid "GAMELIST VIEW STYLE"
-msgstr ""
+msgstr "遊戲表檢視方式"
 
 msgid "START ON SYSTEM"
-msgstr ""
+msgstr "開機時系統"
 
 msgid "TRANSITION STYLE"
 msgstr "轉場效果"
@@ -325,7 +325,7 @@ msgid "SCREENSAVER BEHAVIOR"
 msgstr "螢幕保護效果"
 
 msgid "SHOW CLOCK"
-msgstr ""
+msgstr "顯示時脈"
 
 msgid "ON-SCREEN HELP"
 msgstr "顯示幫助"
@@ -334,13 +334,13 @@ msgid "QUICK SYSTEM SELECT"
 msgstr "快速遊戲平台選擇(左右鍵)"
 
 msgid "ON SCREEN KEYBOARD"
-msgstr ""
+msgstr "螢幕鍵盤顯示"
 
 msgid "CAROUSEL TRANSITIONS"
 msgstr ""
 
 msgid "ENABLE FILTERS"
-msgstr ""
+msgstr "啟用濾鏡"
 
 msgid "SHOW FRAMERATE"
 msgstr "顯示FPS幀率"
@@ -349,19 +349,19 @@ msgid "OVERSCAN"
 msgstr "過掃描填滿效果"
 
 msgid "SAVE METADATA ON EXIT"
-msgstr ""
+msgstr "退出時儲存進度"
 
 msgid "PARSE GAMESLISTS ONLY"
-msgstr ""
+msgstr "只顯示遊戲表"
 
 msgid "SEARCH FOR LOCAL ART"
 msgstr ""
 
 msgid "SHOW HIDDEN FILES"
-msgstr ""
+msgstr "顯示隱藏檔案"
 
 msgid "VRAM LIMIT"
-msgstr ""
+msgstr "設定視訊記憶體上限"
 
 msgid "SYSTEM VOLUME"
 msgstr "系統音量"
@@ -370,10 +370,10 @@ msgid "FRONTEND MUSIC"
 msgstr "系統背景音樂"
 
 msgid "ENABLE NAVIGATION SOUNDS"
-msgstr ""
+msgstr "啟用導引音效"
 
 msgid "ENABLE VIDEO AUDIO"
-msgstr ""
+msgstr "啟用預覽影片音樂"
 
 msgid "OUTPUT DEVICE"
 msgstr "輸出裝置"
@@ -394,7 +394,7 @@ msgid "ENABLE WIFI"
 msgstr "啟用WIFI無線網絡"
 
 msgid "WIFI SSID"
-msgstr "無線 SSID"
+msgstr "無線網路 SSID"
 
 msgid "WIFI KEY"
 msgstr "WIFI無線密碼金鑰"
@@ -406,13 +406,13 @@ msgid "WIFI CONFIGURATION ERROR"
 msgstr "WIFI無線網路設定錯誤"
 
 msgid "REALLY SCRAPE?"
-msgstr ""
+msgstr "確認開始搜刮?"
 
 msgid "AUTOMATIC SCRAPER"
-msgstr ""
+msgstr "自動搜刮"
 
 msgid "MANUAL SCRAPER"
-msgstr ""
+msgstr "手動搜刮"
 
 msgid "REALLY RESTART?"
 msgstr "確定要重新啟動嗎?"
@@ -439,13 +439,13 @@ msgid "Core"
 msgstr "核心"
 
 msgid "VIDEO MODE"
-msgstr ""
+msgstr "視訊輸出模式設定"
 
 msgid "INSTALL BATOCERA"
-msgstr ""
+msgstr "安裝 BATOCERA"
 
 msgid "TARGET DEVICE"
-msgstr ""
+msgstr "目標裝置"
 
 msgid "TARGET ARCHITECTURE"
 msgstr ""
@@ -454,10 +454,10 @@ msgid "VALIDATION"
 msgstr ""
 
 msgid "YES, I'M SURE"
-msgstr ""
+msgstr "是的,已確認"
 
 msgid "INSTALL"
-msgstr ""
+msgstr "安裝"
 
 msgid "NETWORK REQUIRED"
 msgstr ""
@@ -551,10 +551,10 @@ msgid "enter game name"
 msgstr "輸入遊戲名稱"
 
 msgid "Sort name"
-msgstr ""
+msgstr "簡稱"
 
 msgid "enter game sort name"
-msgstr ""
+msgstr "輸入遊戲簡稱"
 
 msgid "Description"
 msgstr "簡介"
@@ -569,13 +569,13 @@ msgid "enter path to image"
 msgstr "輸入圖片路徑"
 
 msgid "Path to video"
-msgstr ""
+msgstr "遊戲影像路徑"
 
 msgid "enter path to thumbnail"
 msgstr "輸入縮圖路徑"
 
 msgid "Path to marquee"
-msgstr ""
+msgstr "圖框路徑"
 
 msgid "Thumbnail"
 msgstr "縮圖"
@@ -629,10 +629,10 @@ msgid "set hidden"
 msgstr "設定隱藏"
 
 msgid "Kidgame"
-msgstr ""
+msgstr "兒童遊戲"
 
 msgid "set kidgame"
-msgstr ""
+msgstr "設定兒童遊戲"
 
 msgid "Play count"
 msgstr "遊戲執行次數"
@@ -647,31 +647,31 @@ msgid "enter last played date"
 msgstr "輸入最後遊戲執行日期"
 
 msgid "name"
-msgstr ""
+msgstr "遊戲名稱"
 
 msgid "sortname"
-msgstr ""
+msgstr "遊戲簡稱"
 
 msgid "description"
-msgstr ""
+msgstr "遊戲敘述"
 
 msgid "image"
-msgstr ""
+msgstr "圖片"
 
 msgid "thumbnail"
-msgstr ""
+msgstr "縮圖"
 
 msgid "video"
-msgstr ""
+msgstr "遊戲影像"
 
 msgid "enter path to video"
-msgstr ""
+msgstr "輸入遊戲影像路徑"
 
 msgid "marquee"
-msgstr ""
+msgstr "遊戲圖框"
 
 msgid "enter path to marquee"
-msgstr ""
+msgstr "輸入遊戲圖框路徑"
 
 msgid "DO YOU WANT TO START KODI MEDIA CENTER ?"
 msgstr "你想啟動 KODI 媒體播放中心嗎?"
@@ -682,13 +682,13 @@ msgid_plural "%i GAMES AVAILABLE"
 msgstr[0] "%i 個可用遊戲"
 
 msgid "KODI"
-msgstr ""
+msgstr "KODI媒體中心"
 
 msgid "RANDOM"
-msgstr ""
+msgstr "隨機選擇"
 
 msgid "FILES"
-msgstr ""
+msgstr "檔案"
 
 msgid "Released"
 msgstr "發行日期"
@@ -715,16 +715,16 @@ msgid "ACCEPT RESULT"
 msgstr ""
 
 msgid "Loading..."
-msgstr ""
+msgstr "檔案讀取中"
 
 msgid "Loading system config..."
-msgstr ""
+msgstr "系統參數讀取中"
 
 msgid "Done."
-msgstr ""
+msgstr "完成"
 
 msgid "UPDATE AVAILABLE"
-msgstr ""
+msgstr "已有更新檔案"
 
 #, c-format
 msgid "Added '%s' to '%s'"
@@ -747,16 +747,16 @@ msgid "RIGHT"
 msgstr "右"
 
 msgid "LEFT ANALOG UP"
-msgstr ""
+msgstr "左類比鍵 上"
 
 msgid "LEFT ANALOG LEFT"
-msgstr ""
+msgstr "左類比鍵 左"
 
 msgid "RIGHT ANALOG UP"
-msgstr ""
+msgstr "右類比鍵 上"
 
 msgid "RIGHT ANALOG LEFT"
-msgstr ""
+msgstr "右類比鍵 左"
 
 msgid "HOTKEY"
 msgstr "熱鍵"
@@ -768,7 +768,7 @@ msgid "KEYBOARD"
 msgstr "鍵盤"
 
 msgid "CEC"
-msgstr ""
+msgstr "CEC傳輸設定"
 
 #, c-format
 msgid "GAMEPAD %i"
